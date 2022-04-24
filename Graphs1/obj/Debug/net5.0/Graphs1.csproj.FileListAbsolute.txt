@@ -1,0 +1,16 @@
+C:\Users\varga\source\repos\Graphs1\Graphs1\bin\Debug\net5.0\Graphs1.exe
+C:\Users\varga\source\repos\Graphs1\Graphs1\bin\Debug\net5.0\Graphs1.deps.json
+C:\Users\varga\source\repos\Graphs1\Graphs1\bin\Debug\net5.0\Graphs1.runtimeconfig.json
+C:\Users\varga\source\repos\Graphs1\Graphs1\bin\Debug\net5.0\Graphs1.runtimeconfig.dev.json
+C:\Users\varga\source\repos\Graphs1\Graphs1\bin\Debug\net5.0\Graphs1.dll
+C:\Users\varga\source\repos\Graphs1\Graphs1\bin\Debug\net5.0\ref\Graphs1.dll
+C:\Users\varga\source\repos\Graphs1\Graphs1\bin\Debug\net5.0\Graphs1.pdb
+C:\Users\varga\source\repos\Graphs1\Graphs1\obj\Debug\net5.0\Graphs1.csproj.AssemblyReference.cache
+C:\Users\varga\source\repos\Graphs1\Graphs1\obj\Debug\net5.0\Graphs1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varga\source\repos\Graphs1\Graphs1\obj\Debug\net5.0\Graphs1.AssemblyInfoInputs.cache
+C:\Users\varga\source\repos\Graphs1\Graphs1\obj\Debug\net5.0\Graphs1.AssemblyInfo.cs
+C:\Users\varga\source\repos\Graphs1\Graphs1\obj\Debug\net5.0\Graphs1.csproj.CoreCompileInputs.cache
+C:\Users\varga\source\repos\Graphs1\Graphs1\obj\Debug\net5.0\Graphs1.dll
+C:\Users\varga\source\repos\Graphs1\Graphs1\obj\Debug\net5.0\ref\Graphs1.dll
+C:\Users\varga\source\repos\Graphs1\Graphs1\obj\Debug\net5.0\Graphs1.pdb
+C:\Users\varga\source\repos\Graphs1\Graphs1\obj\Debug\net5.0\Graphs1.genruntimeconfig.cache
