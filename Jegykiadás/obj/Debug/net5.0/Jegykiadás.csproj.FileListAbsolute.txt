@@ -1,0 +1,16 @@
+C:\Users\varga\source\repos\Jegykiadás\Jegykiadás\bin\Debug\net5.0\Jegykiadás.exe
+C:\Users\varga\source\repos\Jegykiadás\Jegykiadás\bin\Debug\net5.0\Jegykiadás.deps.json
+C:\Users\varga\source\repos\Jegykiadás\Jegykiadás\bin\Debug\net5.0\Jegykiadás.runtimeconfig.json
+C:\Users\varga\source\repos\Jegykiadás\Jegykiadás\bin\Debug\net5.0\Jegykiadás.runtimeconfig.dev.json
+C:\Users\varga\source\repos\Jegykiadás\Jegykiadás\bin\Debug\net5.0\Jegykiadás.dll
+C:\Users\varga\source\repos\Jegykiadás\Jegykiadás\bin\Debug\net5.0\ref\Jegykiadás.dll
+C:\Users\varga\source\repos\Jegykiadás\Jegykiadás\bin\Debug\net5.0\Jegykiadás.pdb
+C:\Users\varga\source\repos\Jegykiadás\Jegykiadás\obj\Debug\net5.0\Jegykiadás.csproj.AssemblyReference.cache
+C:\Users\varga\source\repos\Jegykiadás\Jegykiadás\obj\Debug\net5.0\Jegykiadás.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varga\source\repos\Jegykiadás\Jegykiadás\obj\Debug\net5.0\Jegykiadás.AssemblyInfoInputs.cache
+C:\Users\varga\source\repos\Jegykiadás\Jegykiadás\obj\Debug\net5.0\Jegykiadás.AssemblyInfo.cs
+C:\Users\varga\source\repos\Jegykiadás\Jegykiadás\obj\Debug\net5.0\Jegykiadás.csproj.CoreCompileInputs.cache
+C:\Users\varga\source\repos\Jegykiadás\Jegykiadás\obj\Debug\net5.0\Jegykiadás.dll
+C:\Users\varga\source\repos\Jegykiadás\Jegykiadás\obj\Debug\net5.0\ref\Jegykiadás.dll
+C:\Users\varga\source\repos\Jegykiadás\Jegykiadás\obj\Debug\net5.0\Jegykiadás.pdb
+C:\Users\varga\source\repos\Jegykiadás\Jegykiadás\obj\Debug\net5.0\Jegykiadás.genruntimeconfig.cache
